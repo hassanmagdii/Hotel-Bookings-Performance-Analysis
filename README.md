@@ -25,7 +25,7 @@ Power BI dashboard analyzing hotel booking and revenue performance, cancellation
 - **Canceled Bookings by deposit type**: Canceled Bookings across different deposit types
 - **Canceled Bookings by Market Segment**: Distribution of canceled bookings across market segment
 
-**Technical Steps** 
+# Technical Steps 
 1. **connect to power bi**
 - Open Power BI Desktop.
 - Connect to the hotel_bookings.csv file.
@@ -54,7 +54,7 @@ Power BI dashboard analyzing hotel booking and revenue performance, cancellation
 - **Canceled Bookings by Distribution Channel** : Use stacked bar chart to display Canceled Bookings by Distribution Channel
 - **Length of stay by lead time**: Use line chart to display Length of stay by lead time
 
-**Contact**
+# Contact
 Created by [Hassan Elshaer]  
 Email [alshaerhassan72@gmail.com] 
 [LinkedIn]( www.linkedin.com/in/hassan-elshaer-20849a23a )
